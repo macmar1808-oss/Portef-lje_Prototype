@@ -1,4 +1,8 @@
-.img {
-    height: 100px;
-    width: 100px;
+.undertext {
+    text-align: right;
+    margin-right: 5%;
+}
+
+.picture {
+    align-items: right;
 }
